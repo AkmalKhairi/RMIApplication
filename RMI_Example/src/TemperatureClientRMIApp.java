@@ -34,7 +34,7 @@ public class TemperatureClientRMIApp {
 			System.out.println("Current temperature in Jasin is " + currentTemperature + " Celcius");
 			System.out.println("Current temperature in Ayer Keroh is " + currentTemperature2 + " Celcius");
 			System.out.println("Current temperature in Ayer Keroh on Monday is " + currentTemperature3 + " Celcius");
-			System.out.println("average temperature in Ayer Keroh is " + currentTemperature4 + " Celcius");
+			System.out.println("The average temperature in Ayer Keroh is " + currentTemperature4 + " Celcius");
 			
 		} catch (RemoteException | NotBoundException e) {
 			// TODO Auto-generated catch block
